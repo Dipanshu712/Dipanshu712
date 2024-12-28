@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipanshu712
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Dta scinec
+- 🌱 I’m currently learning Dta Science
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me
 - mobile no 8454081928
